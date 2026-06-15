@@ -1,0 +1,317 @@
+{
+  "version": 1,
+  "species": [
+    {
+      "id": "turdus-fuscater",
+      "scientific": "Turdus fuscater",
+      "nameEN": "Great Thrush",
+      "nameCO": "Mirla común",
+      "ebird": "grethr1",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "genus": "Turdus"
+      }
+    },
+    {
+      "id": "turdus-migratorius",
+      "scientific": "Turdus migratorius",
+      "nameEN": "American Robin",
+      "nameCO": "Zorzal robín",
+      "ebird": "amerob",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Turdidae",
+        "genus": "Turdus"
+      }
+    },
+    {
+      "id": "cardinalis-cardinalis",
+      "scientific": "Cardinalis cardinalis",
+      "nameEN": "Northern Cardinal",
+      "nameCO": "Cardenal norteño",
+      "ebird": "norcar",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Cardinalidae",
+        "genus": "Cardinalis"
+      }
+    },
+    {
+      "id": "zonotrichia-capensis",
+      "scientific": "Zonotrichia capensis",
+      "nameEN": "Rufous-collared Sparrow",
+      "nameCO": "Copetón común",
+      "ebird": "rucspa1",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Passerellidae",
+        "genus": "Zonotrichia"
+      }
+    },
+    {
+      "id": "cardinalis-phoeniceus",
+      "scientific": "Cardinalis phoeniceus",
+      "nameEN": "Vermilion Cardinal",
+      "nameCO": "Cardenal guajiro",
+      "ebird": "vercar1",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Cardinalidae",
+        "genus": "Cardinalis"
+      }
+    },
+    {
+      "id": "pyrocephalus-rubinus",
+      "scientific": "Pyrocephalus rubinus",
+      "nameEN": "Vermilion Flycatcher",
+      "nameCO": "Atrapamoscas pechirrojo",
+      "ebird": "verfly",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Tyrannidae",
+        "genus": "Pyrocephalus"
+      }
+    },
+    {
+      "id": "agelaius-phoeniceus",
+      "scientific": "Agelaius phoeniceus",
+      "nameEN": "Red-winged Blackbird",
+      "nameCO": "Tordo sargento",
+      "ebird": "rewbla",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Passeriformes",
+        "family": "Icteridae",
+        "genus": "Agelaius"
+      }
+    },
+    {
+      "id": "sula-nebouxii",
+      "scientific": "Sula nebouxii",
+      "nameEN": "Blue-footed Booby",
+      "nameCO": "Piquero patiazul",
+      "ebird": "bfoboo",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Suliformes",
+        "family": "Sulidae",
+        "genus": "Sula"
+      }
+    },
+    {
+      "id": "branta-canadensis",
+      "scientific": "Branta canadensis",
+      "nameEN": "Canada Goose",
+      "nameCO": "Ganso canadiense",
+      "ebird": "cangoo",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Anseriformes",
+        "family": "Anatidae",
+        "genus": "Branta"
+      }
+    },
+    {
+      "id": "egretta-caerulea",
+      "scientific": "Egretta caerulea",
+      "nameEN": "Little Blue Heron",
+      "nameCO": "Garza azul",
+      "ebird": "libher",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Pelecaniformes",
+        "family": "Ardeidae",
+        "genus": "Egretta"
+      }
+    },
+    {
+      "id": "phoenicopterus-ruber",
+      "scientific": "Phoenicopterus ruber",
+      "nameEN": "American Flamingo",
+      "nameCO": "Flamenco americano",
+      "ebird": "grefla2",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Phoenicopteriformes",
+        "family": "Phoenicopteridae",
+        "genus": "Phoenicopterus"
+      }
+    },
+    {
+      "id": "jabiru-mycteria",
+      "scientific": "Jabiru mycteria",
+      "nameEN": "Jabiru",
+      "nameCO": "Garzón soldado",
+      "ebird": "jabiru",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Ciconiiformes",
+        "family": "Ciconiidae",
+        "genus": "Jabiru"
+      }
+    },
+    {
+      "id": "platalea-ajaja",
+      "scientific": "Platalea ajaja",
+      "nameEN": "Roseate Spoonbill",
+      "nameCO": "Espátula rosada",
+      "ebird": "rosspo1",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Pelecaniformes",
+        "family": "Threskiornithidae",
+        "genus": "Platalea"
+      }
+    },
+    {
+      "id": "coragyps-atratus",
+      "scientific": "Coragyps atratus",
+      "nameEN": "Black Vulture",
+      "nameCO": "Gallinazo negro",
+      "ebird": "blkvul",
+      "taxonomy": {
+        "class": "Aves",
+        "order": "Cathartiformes",
+        "family": "Cathartidae",
+        "genus": "Coragyps"
+      }
+    }
+  ],
+  "taxa": {
+    "Aves": {
+      "en": "Birds",
+      "es": "Aves"
+    },
+    "Passeriformes": {
+      "en": "Perching birds",
+      "es": "Aves paseriformes"
+    },
+    "Suliformes": {
+      "en": "Boobies & cormorants",
+      "es": "Suliformes"
+    },
+    "Anseriformes": {
+      "en": "Waterfowl",
+      "es": "Anseriformes / patos y gansos"
+    },
+    "Pelecaniformes": {
+      "en": "Herons, ibises & allies",
+      "es": "Pelecaniformes"
+    },
+    "Phoenicopteriformes": {
+      "en": "Flamingos",
+      "es": "Flamencos"
+    },
+    "Ciconiiformes": {
+      "en": "Storks",
+      "es": "Cigüeñas"
+    },
+    "Cathartiformes": {
+      "en": "New World vultures",
+      "es": "Buitres americanos"
+    },
+    "Turdidae": {
+      "en": "Thrushes",
+      "es": "Túrdidos"
+    },
+    "Cardinalidae": {
+      "en": "Cardinals & allies",
+      "es": "Cardenales"
+    },
+    "Passerellidae": {
+      "en": "New World sparrows",
+      "es": "Gorriones americanos"
+    },
+    "Tyrannidae": {
+      "en": "Tyrant flycatchers",
+      "es": "Tiránidos / atrapamoscas"
+    },
+    "Icteridae": {
+      "en": "New World blackbirds",
+      "es": "Ictéridos / turpiales"
+    },
+    "Sulidae": {
+      "en": "Boobies & gannets",
+      "es": "Piqueros y alcatraces"
+    },
+    "Anatidae": {
+      "en": "Ducks, geese & swans",
+      "es": "Anátidos"
+    },
+    "Ardeidae": {
+      "en": "Herons & egrets",
+      "es": "Garzas (ardeidos)"
+    },
+    "Threskiornithidae": {
+      "en": "Ibises & spoonbills",
+      "es": "Ibis y espátulas"
+    },
+    "Phoenicopteridae": {
+      "en": "Flamingos",
+      "es": "Flamencos"
+    },
+    "Ciconiidae": {
+      "en": "Storks",
+      "es": "Cigüeñas"
+    },
+    "Cathartidae": {
+      "en": "New World vultures",
+      "es": "Buitres del Nuevo Mundo / gallinazos"
+    },
+    "Turdus": {
+      "en": "True thrushes",
+      "es": "Mirlas y zorzales"
+    },
+    "Cardinalis": {
+      "en": "Cardinals",
+      "es": "Cardenales"
+    },
+    "Zonotrichia": {
+      "en": "Crowned sparrows",
+      "es": "Copetones"
+    },
+    "Pyrocephalus": {
+      "en": "Vermilion flycatchers",
+      "es": "Titiribíes"
+    },
+    "Agelaius": {
+      "en": "Red-winged blackbirds",
+      "es": "Sargentos"
+    },
+    "Sula": {
+      "en": "Boobies",
+      "es": "Piqueros"
+    },
+    "Branta": {
+      "en": "Black geese",
+      "es": "Gansos / barnaclas"
+    },
+    "Egretta": {
+      "en": "Typical egrets",
+      "es": "Garcetas"
+    },
+    "Phoenicopterus": {
+      "en": "Flamingos",
+      "es": "Flamencos"
+    },
+    "Jabiru": {
+      "en": "Jabiru",
+      "es": "Jabirú"
+    },
+    "Platalea": {
+      "en": "Spoonbills",
+      "es": "Espátulas"
+    },
+    "Coragyps": {
+      "en": "Black vultures",
+      "es": "Gallinazos"
+    }
+  }
+}
